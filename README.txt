@@ -3,4 +3,4 @@ Ce Truc Peut Vous Bombarder De Pubs, Avec La Quantité Que Vous Voulez, Pour Un 
 Usage ::::::::::::::::::::::::
 cd VotreSiteCible
 bash ../BombardePub/downloadpubs.bash
-python ../BombardePub/BombardePub.py densitedepubs < index.html > indexpub.html
+python ../BombardePub/BombardePub.py densitedepubs chemaindebase < index.html > indexpub.html
